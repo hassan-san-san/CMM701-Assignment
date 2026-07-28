@@ -1,0 +1,32 @@
+cluster1,cluster2,score,games
+2D Aesthetic,Visual Novel,0.93,677
+2D Aesthetic,Horror/Shooter,0.92,920
+Action,2D Aesthetic,0.91,3050
+Indie,2D Aesthetic,0.91,4825
+Indie,Comedy,0.9,106
+Simulation,2D Aesthetic,0.9,1054
+Horror/Shooter,Visual Novel,0.89,262
+Indie,Horror/Shooter,0.89,2844
+Strategy,2D Aesthetic,0.89,575
+RPG,Visual Novel,0.89,621
+Utilities,Illustration and Animation,0.88,100
+Action,RPG,0.87,1004
+Action,Horror/Shooter,0.87,1570
+Indie,Visual Novel,0.87,1634
+Action,Strategy,0.86,645
+2D Aesthetic,RPG,0.86,1136
+Simulation,Indie,0.85,4270
+Action,Indie,0.85,4267
+Strategy,Visual Novel,0.85,112
+Horror/Shooter,RPG,0.85,180
+Action,Visual Novel,0.84,382
+Simulation,Utilities,0.83,93
+Simulation,Strategy,0.83,1834
+Simulation,Horror/Shooter,0.83,1397
+Strategy,Horror/Shooter,0.82,158
+Strategy,RPG,0.82,919
+Action,Simulation,0.82,2157
+Simulation,RPG,0.81,746
+Indie,Strategy,0.8,2042
+Indie,RPG,0.79,1742
+Simulation,Visual Novel,0.75,258
